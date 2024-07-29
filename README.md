@@ -1,6 +1,25 @@
-# Portfolio
+# ABOUT ME
 
-My name is Martyna Maksimowicz. I am an Applied Mathematics graduate and machine learning enthusiast. I love exploring new mathematical fields, finding hidden patterns and solving difficult problems. My life’s goal is to share my passion and show the beauty of mathematics, inspire and motivate other people, especially younger ones (e.g. during popular science events). Currently, I am focusing on my personal development, including data scientist skills.
+I am an Applied Mathematics
+graduate and machine learning
+enthusiast. I love exploring new
+mathematical fields, finding hidden
+patterns and solving difficult
+problems. I like to play cooperative
+and logic board games, which help
+me develop strategic thinking and
+collaboration skills.
+
+I am currently working in the
+insurance industry, where my
+responsibilities include data mining,
+analysis and interpretation, building
+and maintaining risk models and also
+monthly reporting. My job is not just a duty but also a pleasure, as it allows me to engage daily in what I love most - mathematics, data analysis and problem solving.
+
+My life’s goal is to share my passion and show the beauty of mathematics, inspire and motivate other people, especially younger ones (e.g. during popular science events). Currently, I am focusing on my personal development, including data scientist skills.
+
+# PORTFOLIO
 
 <b>My projects about data analysis:</b>
 - my own projects:
