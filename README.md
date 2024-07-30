@@ -1,10 +1,6 @@
 # ABOUT ME
 
-I am an Applied Mathematics
-graduate and machine learning
-enthusiast. I love exploring new
-mathematical fields, finding hidden
-patterns and solving difficult
+My name is Martyna. I am an Applied Mathematics graduate and machine learning enthusiast. I love exploring new mathematical fields, finding hidden patterns and solving difficult
 problems. I like to play cooperative
 and logic board games, which help
 me develop strategic thinking and
