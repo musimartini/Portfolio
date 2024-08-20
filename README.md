@@ -22,6 +22,7 @@ My life’s goal is to share my passion and show the beauty of mathematics, insp
   - [Dry Bean Dataset Classification](https://github.com/musimartini/DryBeanDatasetClassification)
   - [Liver Disease Risk Factors](https://github.com/musimartini/LiverDisease)
   - [Seoul Bike Sharing Demand review](https://public.tableau.com/app/profile/martyna.maksimowicz/viz/BikerentsinSeoul/SeoulBikeSharingDemandreview)
+
   - [Fifa football players](https://github.com/musimartini/Fifa-football-players)
 
 - my own projects based on sugestions from CodeCademy - open portfolio projects (datasets without direct tasks):
